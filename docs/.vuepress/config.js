@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Zhu Zhaohua',
+    title: 'Feng Yang',
 
     serviceWorker: true,
     head: [
