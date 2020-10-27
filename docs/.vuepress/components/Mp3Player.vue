@@ -6,7 +6,7 @@
       @change="play">
     </el-switch>
     <audio ref="music" loop> 
-      <!-- <source src="../public/mp3/001.mp3" type="audio/mpeg"> -->
+      <source src="../public/mp3/tonghuazhen.mp3" type="audio/mpeg">
     </audio>
   </div>
 </template>

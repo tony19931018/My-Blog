@@ -21,9 +21,8 @@ module.exports = {
           { text: '留言板', link:'/massage/'},
           { text: '链接',
             items: [
-                {text:'简书',link: 'https://www.jianshu.com/u/cbc58f855e75' },
-                {text:'GitHub',link: 'https://github.com/zhuzhaohua' },
-                {text:'码云',link: 'https://gitee.com/kobuta' },
+                {text:'GitHub',link: 'https://github.com/tony19931018' },
+                {text:'码云',link: 'https://gitee.com/zhuyuninan' },
             ]
           }
         ],

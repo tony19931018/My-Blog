@@ -9,7 +9,6 @@ yarn
 ```
 
 ## 注册并填写 评论组件所需要的key
-参见[云淡风轻](https://ioliu.cn/2017/add-valine-comments-to-your-blog/)
 
 在.vuepress/components/Valine.vue中修改appId和appKey
 ```
