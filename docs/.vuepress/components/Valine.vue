@@ -18,9 +18,9 @@ export default {
       el: '#vcomments' ,
       appId: '5yDexh0gcXFTRwSYN93e1FlO-gzGzoHsz',// your appId
       appKey: '3A1nGxssaJSwUNUPgRkzV5Ha', // your appKey
-      notify:true, 
-      verify:false, 
-      avatar:'fy', 
+      notify: true, 
+      verify: false, 
+      avatar: 'fy', 
       placeholder: 'just go go' 
     });
   },
