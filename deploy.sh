@@ -9,5 +9,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 推到你仓库的 master 分支 
-git push -f git@github.com:zhuzhaohua/zhuzhaohua.github.io.git master
+# 推到你仓库的 master 分支
+git push -f git@github.com/tony19931018/My-Blog.git master

@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "vuepress": "^0.14.11"
   },
   "scripts": {
